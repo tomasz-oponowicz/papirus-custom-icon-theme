@@ -6,7 +6,7 @@ Features:
 
 - The icon theme extends Adwaita.
 - A subset of application icons has been imported from Papirus.
-- Mime type icons have been limitied to directory and file icons.
+- Mime type icons have been limited to directory and file icons.
 
 ## Install
 
